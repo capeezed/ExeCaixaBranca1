@@ -15,9 +15,6 @@ Então,
 2. Caminho com autenticação correta (usuário encontrado)
 3. Caminho de exceção (falha na conexão, query)
 
-**Planilha de Testes**
-
-<img width="930" height="126" alt="image" src="https://github.com/user-attachments/assets/d4b28223-4a0f-4fae-8cae-b6e04f546798" />
 
 **Notação de Grafo de Fluxo**
 
