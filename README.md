@@ -1,7 +1,9 @@
 # ExeCaixaBranca1
 
-**Para método verificarUsuario:**
-- N = 5 (Início, conexão, execução SQL, if, retorno/result)
+**COMPLEXIDADE CICLOMÁTICA**
+
+Para método verificarUsuario:
+- N = 5
 - E = 6
 - P = 1
 Então,
