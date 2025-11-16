@@ -10,7 +10,7 @@ Então,
 **Caminhos básicos**
 1. Caminho sem autenticação (usuário não encontrado)
 2. Caminho com autenticação correta (usuário encontrado)
-3. Caminho de exceção (falha na conexão, query etc)
+3. Caminho de exceção (falha na conexão, query)
 
 **Planilha de Testes**
 
