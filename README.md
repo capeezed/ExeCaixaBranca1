@@ -2,7 +2,7 @@
 
 **COMPLEXIDADE CICLOMÁTICA**
 
-Para método verificarUsuario:
+Para método verificarUsuario (Pois é o único com complexidade maior que 1):
 - N = 5
 - E = 6
 - P = 1
