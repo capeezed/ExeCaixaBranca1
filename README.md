@@ -6,6 +6,7 @@ Para método verificarUsuario:
 - N = 5
 - E = 6
 - P = 1
+
 Então,
 `M = 6 - 5 + 2(1) = 3`
 
