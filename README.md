@@ -16,3 +16,6 @@ Então,
 
 <img width="930" height="126" alt="image" src="https://github.com/user-attachments/assets/d4b28223-4a0f-4fae-8cae-b6e04f546798" />
 
+**Notação de Grafo de Fluxo**
+
+<img width="458" height="669" alt="image" src="https://github.com/user-attachments/assets/f372f540-ce4f-4555-a9a7-3dfd11214da9" />
