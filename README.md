@@ -8,7 +8,7 @@ Para método verificarUsuario:
 - P = 1
 
 Então,
-`M = 6 - 5 + 2(1) = 3`
+M = 6 - 5 + 2(1) = 3
 
 **Caminhos básicos**
 1. Caminho sem autenticação (usuário não encontrado)
